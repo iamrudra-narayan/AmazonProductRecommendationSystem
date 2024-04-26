@@ -14,8 +14,8 @@ In this notebook, we aim to tackle the real-world problem of building a recommen
 <b>Find the Complete Dataset by <a href="https://drive.google.com/drive/folders/1WLNHqePrioUnpowv6xpu6l0Cb0VQ27BB?usp=sharing">CLICKING HERE</a></b>
 <br>
 <h4><b>Download the dataset from kaggle:- </b></h4> <a>https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset</a>
-
-***main_category:***
+<br>
+**main_category:**
 
 This column represents the main category or department to which the product belongs.
 Examples of main categories include electronics, clothing, home decor, books, etc.
@@ -58,7 +58,7 @@ It provides users with information about the product's original value and helps 
 <br>
 <h2><b>Approaches for Feature Engineering</b></h2>
 <br>
-***image_vec:***
+**image_vec:**
 
 Use techniques such as image embedding or convolutional neural networks (CNNs) to extract features from product images.
 Apply pre-trained image models such as **EfficientNetB1** to extract high-level features from images.
