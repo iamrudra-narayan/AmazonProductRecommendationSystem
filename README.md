@@ -2,7 +2,7 @@
 
 Find the complete code, dataset and Reference by <b><a href="https://drive.google.com/drive/folders/1h3gyyHpxmczkLpOU-j0f1pEtWkilW9ht?usp=sharing">CLICKING HERE</a></b>
 
-<img src="https://github.com/iamrudra-narayan/AmazonProductRecommendationSystem/assets/84215414/e41b7126-9248-47d8-8b3c-8775078b18f1">
+<img src="https://github.com/iamrudra-narayan/AmazonProductRecommendationSystem/blob/master/amazon.png">
 <br>
 <h2><b>INTRODUCTION</b></h2>
 <br>
