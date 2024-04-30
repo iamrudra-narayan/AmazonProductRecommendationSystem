@@ -1,6 +1,6 @@
 # AmazonProductRecommendationSystem
 
-Find the complete code, dataset and Reference by <b><a href="https://drive.google.com/drive/folders/10KGTcF5VBebyDFEQlmVTpJTsSCX9b4sB?usp=sharing">CLICKING HERE</a></b>
+Find the complete code, dataset and Reference by <b><a href="https://drive.google.com/drive/folders/1h3gyyHpxmczkLpOU-j0f1pEtWkilW9ht?usp=sharing">CLICKING HERE</a></b>
 
 <img src="https://github.com/iamrudra-narayan/AmazonProductRecommendationSystem/assets/84215414/e41b7126-9248-47d8-8b3c-8775078b18f1">
 <br>
@@ -11,7 +11,7 @@ In this notebook, we aim to tackle the real-world problem of building a recommen
 <br>
 <h2><b>ABOUT DATASET</b></h2>
 <br>
-<b>Find the Complete Dataset by <a href="https://drive.google.com/drive/folders/1WLNHqePrioUnpowv6xpu6l0Cb0VQ27BB?usp=sharing">CLICKING HERE</a></b>
+<b>Find the Complete Dataset by <a href="https://drive.google.com/drive/folders/1KGkWdBdXjJE76ThuTIijMIm6f7SRqhVz?usp=sharing">CLICKING HERE</a></b>
 <br>
 <h4><b>Download the dataset from kaggle:- </b></h4> <a href="https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset">CLICK HERE</a>
 <br>
